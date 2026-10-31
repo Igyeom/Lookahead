@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dhdb3d87ka5jr"
-path="res://.godot/imported/Lookahead.icon.png-8b93101f9b5fe52d2df84a9ff137b936.ctex"
+uid="uid://dm1l1umtd1alv"
+path="res://.godot/imported/Lookahead.icon.png-0afdda27abf68a8f078cf2963d06beb1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://lookahe.ad_export/Lookahead/Lookahead.icon.png"
-dest_files=["res://.godot/imported/Lookahead.icon.png-8b93101f9b5fe52d2df84a9ff137b936.ctex"]
+source_file="res://lookahe.ad_export/Lookahead.icon.png"
+dest_files=["res://.godot/imported/Lookahead.icon.png-0afdda27abf68a8f078cf2963d06beb1.ctex"]
 
 [params]
 
